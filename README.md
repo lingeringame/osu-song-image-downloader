@@ -1,5 +1,5 @@
 # osu-song-image-downloader
-Tool that downloads all background images and songs from beatmaps
+App that downloads all background images and/or songs from beatmaps from the osu! rhythm game. 
 
 ###
 osu! SBD is a small project I did on my free time. It's main purpose is to download all songs and/or background images from your beatmaps from your local osu! game 
